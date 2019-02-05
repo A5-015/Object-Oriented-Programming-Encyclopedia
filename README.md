@@ -1,3 +1,3 @@
-# Object-Oriented-Programming-Encyclopedia
+# Object Oriented Programming Encyclopedia
 
-Check the wiki page
+Check the wiki page!
